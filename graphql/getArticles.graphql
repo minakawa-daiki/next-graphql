@@ -1,0 +1,6 @@
+query GetArticles {
+    getArticles {
+        id
+        title
+    }
+}

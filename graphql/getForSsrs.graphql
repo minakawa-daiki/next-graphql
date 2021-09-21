@@ -1,0 +1,6 @@
+query GetForSsrs {
+    getForSsrs {
+        id
+        content
+    }
+}
